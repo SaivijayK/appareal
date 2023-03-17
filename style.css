@@ -1,3 +1,4 @@
+/* web view */
 @media screen and (min-width:480px) {
     body{
         background-color: #FCF3F3;
@@ -121,7 +122,7 @@
 
 }
 
-
+/* mobile view */
 @media screen and (max-width:479px){
     body{
         background-color: #FCF3F3;
